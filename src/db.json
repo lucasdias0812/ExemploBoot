@@ -1,0 +1,11 @@
+{
+    "produtos" : [
+    {
+        "id": 1,
+        "descricao" : "Tenis Nike vermelho",
+        "valorUnitario" : 1000,
+        "estoque" : 100,
+        "img" : 1
+    }
+]
+}
